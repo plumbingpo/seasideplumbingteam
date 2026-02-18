@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seasideplumbingteam.com/sitemap.xml
